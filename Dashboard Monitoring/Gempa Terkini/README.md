@@ -1,0 +1,2 @@
+# deteksigempa
+memberitahu gempa
